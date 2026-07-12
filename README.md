@@ -44,3 +44,50 @@ I build dependable cloud data systems and practical AI solutions that turn compl
   <img src="https://github-readme-stats.vercel.app/api?username=omprakash-engineer&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=334155&icon_color=2563EB&text_color=475569&rank_icon=github" alt="GitHub statistics" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=omprakash-engineer&hide_border=true&background=FFFFFF&ring=6366F1&fire=F59E0B&currStreakLabel=334155&sideLabels=475569&dates=64748B&stroke=FFFFFF" alt="GitHub contribution streak" height="160" />
 </div>
+
+
+---
+
+## Reviewer Summary
+
+### Public Interest Engineering Focus
+
+| Area | Direction |
+| --- | --- |
+| **Proposed technical direction** | Build reliable, secure, and maintainable cloud data platforms using Python, SQL, Azure, AWS, Spark, Databricks, and production GenAI practices. |
+| **Why it matters** | Modern data systems enable analytics, automation, responsible AI, operational decision-making, and dependable digital services. |
+| **Current proof of progress** | 7+ years of hands-on data engineering experience across Azure and AWS, with lakehouse, streaming, PySpark, RAG, and LLM production workflows. |
+| **Long-term contribution model** | Publish practical data/AI engineering examples, contribute focused improvements, and share reusable guidance for cloud data platforms. |
+
+### Evidence Snapshot
+
+| Evidence area | Current public evidence | Link |
+| --- | --- | --- |
+| **Professional focus** | Senior data engineering and AI profile with Azure, AWS, Spark, Databricks, RAG, and GenAI expertise. | [Profile](https://github.com/omprakash-engineer) |
+| **Public engineering workspace** | Repositories for experimenting with software, data, and cloud engineering. | [Repositories](https://github.com/omprakash-engineer?tab=repositories) |
+| **Profile engineering resource** | This profile documents my cloud data, applied AI, and platform-engineering direction. | [Profile README](https://github.com/omprakash-engineer/omprakash-engineer) |
+
+### Engineering Stack
+
+| Domain | Technologies and practices |
+| --- | --- |
+| **Languages** | Python, SQL, .NET, FastAPI |
+| **Data engineering** | Apache Spark, PySpark, Databricks, Delta Lake, Airflow, Kafka, Snowflake |
+| **Cloud and AI** | Azure, AWS, Azure OpenAI, Azure AI Search, RAG, LLM applications, MCP |
+| **Platform delivery** | Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD |
+| **Quality and governance** | Data quality, observability, encryption, governance, automated validation |
+
+### Open Engineering Contribution Plan
+
+| Focus area | Contribution approach | Status |
+| --- | --- | --- |
+| **Cloud data engineering** | Publish reproducible pipeline examples, data-quality patterns, and Lakehouse implementation notes. | In progress |
+| **Applied AI** | Build practical RAG and LLM examples with evaluation, retrieval, and governance considerations. | In progress |
+| **Platform reliability** | Share CI/CD, container, orchestration, and observability patterns for data applications. | In progress |
+
+### Forward Plan
+
+- **Open engineering:** create concise, well-documented examples with clear setup and validation steps.
+- **Data architecture:** publish patterns for ingestion, transformation, governance, streaming, and reliability.
+- **Applied AI:** expand practical RAG, Azure OpenAI, AI Search, and evaluation examples.
+- **Developer education:** make cloud-data and GenAI concepts easier to apply in production systems.
