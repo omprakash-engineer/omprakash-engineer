@@ -4,7 +4,7 @@
 
   <p>
     <a href="mailto:vompreddy@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Omprakash" /></a>
-    <a href="https://github.com/green3432"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+    <a href="https://github.com/omprakash-engineer"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   </p>
 </div>
 
@@ -45,8 +45,8 @@ Platform engineering   APIs | containers | orchestration | CI/CD | governance
 I am actively building projects around data engineering, cloud platforms, and applied AI. Explore my repositories below, and feel free to connect if you are working on scalable data or GenAI systems.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=green3432&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=green3432&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=94A3B8&stroke=0D1117" alt="GitHub contribution streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omprakash-engineer&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omprakash-engineer&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=94A3B8&stroke=0D1117" alt="GitHub contribution streak" height="165" />
 </div>
 
 <div align="center">
