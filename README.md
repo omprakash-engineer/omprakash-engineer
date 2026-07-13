@@ -91,3 +91,4 @@ I build dependable cloud data systems and practical AI solutions that turn compl
 - **Data architecture:** publish patterns for ingestion, transformation, governance, streaming, and reliability.
 - **Applied AI:** expand practical RAG, Azure OpenAI, AI Search, and evaluation examples.
 - **Developer education:** make cloud-data and GenAI concepts easier to apply in production systems.
+
